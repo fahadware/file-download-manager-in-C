@@ -75,7 +75,7 @@ This project aims to simplify the file downloading process through multithreadin
 Make sure you have libcurl installed. Then compile with:
 
 ```bash
-gcc download_manager.c -o download_manager -lcurl -lpthread
+gcc project.c -o download_manager -lcurl -lpthread
 ```
 
 ---
